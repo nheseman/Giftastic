@@ -1,0 +1,14 @@
+body {
+    background-image: url("../images/reel_background.jpg");
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.movieButtons{
+    margin: 5px;
+    width: auto;
+}
+label{
+    color: white;
+    font-size: 200%;
+}
